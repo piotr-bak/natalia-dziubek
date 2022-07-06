@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/natalia-dziubek/static/css/main.bb9e879e.css",
+    "main.js": "/natalia-dziubek/static/js/main.0c78ddc0.js",
+    "static/media/shoulder-pull-2x.webp": "/natalia-dziubek/static/media/shoulder-pull-2x.7040cdc014090ab63625.webp",
+    "static/media/3.webp": "/natalia-dziubek/static/media/3.d637332df8a5c300a51c.webp",
+    "static/media/hero-home-m.webp": "/natalia-dziubek/static/media/hero-home-m.b1ba195f0e2a401ace8a.webp",
+    "static/media/1.webp": "/natalia-dziubek/static/media/1.16410e089489db769f7f.webp",
+    "static/media/2.webp": "/natalia-dziubek/static/media/2.8d198508ba55b1096da8.webp",
+    "static/media/shoulder-pull.webp": "/natalia-dziubek/static/media/shoulder-pull.bcc77cc6454b338f92d5.webp",
+    "static/media/placeholder.webp": "/natalia-dziubek/static/media/placeholder.e0fadb9299588b6547c2.webp",
+    "static/media/5.webp": "/natalia-dziubek/static/media/5.835b29c48ce07ac29daf.webp",
+    "static/media/hero-home-d.webp": "/natalia-dziubek/static/media/hero-home-d.a4fd3aaa31e71a51bd9d.webp",
+    "static/media/4.webp": "/natalia-dziubek/static/media/4.7cf6b910f6fe704a8e59.webp",
+    "static/media/6.webp": "/natalia-dziubek/static/media/6.d7f5a7f80709c4ab5039.webp",
+    "static/media/insta.svg": "/natalia-dziubek/static/media/insta.785e02192cc5c14805e74974d7def800.svg",
+    "static/media/slick.svg": "/natalia-dziubek/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/natalia-dziubek/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/natalia-dziubek/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/natalia-dziubek/index.html",
+    "static/media/slick.woff": "/natalia-dziubek/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/fb.svg": "/natalia-dziubek/static/media/fb.2e3b8aaf6ccc5dc21a9b0121049376f8.svg",
+    "static/media/circle-white.svg": "/natalia-dziubek/static/media/circle-white.75123d63ee87d7ff1641b2c34f813026.svg",
+    "static/media/linkedin.svg": "/natalia-dziubek/static/media/linkedin.f38f3fce564f13bfa66822d8e974ddaa.svg",
+    "static/media/arrow.svg": "/natalia-dziubek/static/media/arrow.274196733dd8d0488c0fa3c5a48398d6.svg",
+    "main.bb9e879e.css.map": "/natalia-dziubek/static/css/main.bb9e879e.css.map",
+    "main.0c78ddc0.js.map": "/natalia-dziubek/static/js/main.0c78ddc0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb9e879e.css",
+    "static/js/main.0c78ddc0.js"
+  ]
+}
